@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shashikant Singh</h1>
 <h3 align="center">a passionate software developer with 2 years of experience in Java, Python, JavaScript, and full-stack development with the MERN (MongoDB, Express.js, React.js, Node.js) stack along with DevOps practices.</h3>
 
-<img align="right" alt="coding" width="400"src="![image](https://github.com/sshashikant220/sshashikant220/assets/79221089/e219e963-ebff-40f7-8013-f3a7db8ea5b8)
-">
+<img align="right" width= "400" src ="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sshashikant220&label=Profile%20views&color=0e75b6&style=flat" alt="sshashikant220" /> </p>
 
